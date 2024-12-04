@@ -1,8 +1,10 @@
-# React + Vite
+# DELIVERY
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Template para uso da API de delivery
+**Telas:**
+  1.Produtos: Criar, Editar, Excluir e pesquisar produtos
+  2.Restaurantes: Criar, Editar, Excluir e pesquisar restaurantes
+  3.Users: Criar, Editar, Excluir e pesquisar users
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Desenvolvido com **React+Vite** 
+Utiliza a API delivery-prog
