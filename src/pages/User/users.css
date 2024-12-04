@@ -1,0 +1,44 @@
+.users-container{
+    padding: 5% 10% 0;
+}
+
+.users-listar-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.users-listar-item{
+    border-radius: 5px;
+    border: 1px solid lightgray;
+}
+
+.users-listar-imagem{
+    height: 150px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px 5px 0 0;
+}
+
+.users-listar-descricao{
+    padding: 10px 20px;
+    display: flex;
+    height: calc(100% - 150px);
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.users-listar-descricao div{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.select-by-id .form-control{
+    border-radius: 0 5px 5px 0;
+}
+
+.select-by-id .btn{
+    border-radius: 5px 0 0 5px;
+}

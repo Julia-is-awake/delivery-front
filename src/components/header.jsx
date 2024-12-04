@@ -26,6 +26,16 @@ function Header() {
                     Produtos
                 </Link>
               </li>
+              <li className="nav-item">
+                <Link className="nav-link active" to="/restaurantes">
+                    Restaurantes
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link active" to="/users">
+                    Users
+                </Link>
+              </li>
             </ul>
             <form className="d-flex">
               <input
